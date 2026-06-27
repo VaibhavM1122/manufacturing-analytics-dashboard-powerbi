@@ -1016,5 +1016,3 @@ INSERT INTO Manufacturing_Data VALUES ('PRD00997','2025-03-29','Furniture','Chai
 INSERT INTO Manufacturing_Data VALUES ('PRD00998','2025-07-02','Appliances','Mixer','Plant E','Machine 5','Morning',2270,88,103812,132958,'Nagpur','Sep');
 INSERT INTO Manufacturing_Data VALUES ('PRD00999','2025-11-29','Electronics','Laptop','Plant C','Machine 4','Evening',1916,55,206630,255636,'Kolhapur','Oct');
 INSERT INTO Manufacturing_Data VALUES ('PRD01000','2025-04-20','Plastic','Container','Plant A','Machine 3','Evening',100,4,310263,420063,'Nashik','Mar');
-
-select * from manufacturing_data
